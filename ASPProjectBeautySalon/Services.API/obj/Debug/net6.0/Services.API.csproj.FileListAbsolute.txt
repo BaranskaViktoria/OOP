@@ -1,0 +1,6 @@
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.AssemblyInfo.cs
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\ASPProjectBeautySalon\Services.API\obj\Debug\net6.0\Services.API.MvcApplicationPartsAssemblyInfo.cache
