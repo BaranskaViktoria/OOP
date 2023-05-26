@@ -1,5 +1,0 @@
-D:\університет\4семестр\OOP\ASPProjectBeautySalon\ASPProjectBeautySalon\obj\Debug\net6.0\ASPProjectBeautySalon.csproj.AssemblyReference.cache
-D:\університет\4семестр\OOP\ASPProjectBeautySalon\ASPProjectBeautySalon\obj\Debug\net6.0\ASPProjectBeautySalon.GeneratedMSBuildEditorConfig.editorconfig
-D:\університет\4семестр\OOP\ASPProjectBeautySalon\ASPProjectBeautySalon\obj\Debug\net6.0\ASPProjectBeautySalon.AssemblyInfoInputs.cache
-D:\університет\4семестр\OOP\ASPProjectBeautySalon\ASPProjectBeautySalon\obj\Debug\net6.0\ASPProjectBeautySalon.AssemblyInfo.cs
-D:\університет\4семестр\OOP\ASPProjectBeautySalon\ASPProjectBeautySalon\obj\Debug\net6.0\ASPProjectBeautySalon.csproj.CoreCompileInputs.cache

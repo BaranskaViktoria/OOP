@@ -1,0 +1,5 @@
+D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon_Dapper.DAL\obj\Debug\net6.0\BeautySalon_Dapper.DAL.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon_Dapper.DAL\obj\Debug\net6.0\BeautySalon_Dapper.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon_Dapper.DAL\obj\Debug\net6.0\BeautySalon_Dapper.DAL.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon_Dapper.DAL\obj\Debug\net6.0\BeautySalon_Dapper.DAL.AssemblyInfo.cs
+D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon_Dapper.DAL\obj\Debug\net6.0\BeautySalon_Dapper.DAL.csproj.CoreCompileInputs.cache
