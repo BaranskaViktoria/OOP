@@ -14,5 +14,6 @@ namespace BeautySalon_Dapper.DAL.Entities_Models_
         public string? MastersType { get; set; }
         public int ServiceID { get; set; }
         public int SalonID { get; set; }
+        public string? CitySalon { get; set; }
     }
 }

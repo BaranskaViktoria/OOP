@@ -10,7 +10,7 @@ using BeautySalon_EF.DAL.Seeding;
 
 namespace BeautySalon_EF.DAL.Configuration
 {
-    public class ProductConfiguration : IEntityTypeConfiguration<Products>
+    public class ProductsConfiguration : IEntityTypeConfiguration<Products>
     {
 
         public void Configure(EntityTypeBuilder<Products> builder)
@@ -32,7 +32,7 @@ namespace BeautySalon_EF.DAL.Configuration
 
 
 
-            new ProductSeeder().Seed(builder);
+            new ProductsConfiguration().Seed(builder);
         }
     }
 }

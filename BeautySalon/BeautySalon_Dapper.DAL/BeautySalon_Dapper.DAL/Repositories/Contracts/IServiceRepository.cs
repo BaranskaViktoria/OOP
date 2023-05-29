@@ -8,6 +8,7 @@ namespace BeautySalon_Dapper.DAL.Repositories.Contracts
     {
         Task AddAsync(Master evnt);
         Task ReplaceAsync(Master evnt);
+        Task ReplaceAsync(SalonCity evnt);
         Task<IEnumerable<Service>> TopFiveServiceAsync();
     }
 }

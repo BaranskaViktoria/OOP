@@ -6,8 +6,16 @@ namespace TeamworkSystem.DataAccessLayer.Interfaces
 {
     public interface IUnitOfWork
     {
-        IProductsRepository ProductsRepository { get; }
+        IReplyProductsRepository ProductsRepository { get; }
+        IReplyProductsRepository ReplyProductsRepository { get; }
 
-            Task SaveChangesAsync();
+        ICommentsProductsRepository CommentsRepository { get; }
+
+        Task SaveChangesAsync();
+
+
+
+
+
     }
 }

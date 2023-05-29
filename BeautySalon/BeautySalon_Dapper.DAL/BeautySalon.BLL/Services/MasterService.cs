@@ -24,7 +24,7 @@ namespace BeautySalon.BLL.Services
         public async Task<Guid> CreateAsync(MasterDTO entity)
         {
             // Mapping without AutoMapper
-            var id = await _uow.Master.CreateAsync(new User
+            var id = await _uow.Master.CreateAsync(new Master
             {
                 Id = entity.Id,
                 FirstName = entity.FirstName,

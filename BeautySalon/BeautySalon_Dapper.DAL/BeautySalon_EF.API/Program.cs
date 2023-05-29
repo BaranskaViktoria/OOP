@@ -20,7 +20,7 @@ builder.Services.AddDbContext<ProductsContext>(options =>
 });
 
 
-builder.Services.AddScoped<IProductsRepository, ProductsRepository>();
+builder.Services.AddScoped<IReplyProductsRepository, ProductsRepository>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();

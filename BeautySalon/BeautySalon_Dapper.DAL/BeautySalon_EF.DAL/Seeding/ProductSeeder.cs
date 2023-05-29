@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BeautySalon_EF.DAL.Seeding
 {
-    public class ProductSeeder : ISeeder<Products>
+    public class ProductsSeeder : ISeeder<Products>
     {
         private static readonly List<Products> products = new()
         {

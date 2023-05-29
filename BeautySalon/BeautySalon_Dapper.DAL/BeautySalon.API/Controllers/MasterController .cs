@@ -1,10 +1,9 @@
-﻿using BeautySalon_Dapper.DAL.Entities;
+﻿
 using BeautySalon_Dapper.DAL.Entities_Models_;
 using BeautySalon_Dapper.DAL.Repositories.Contracts;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MyEventsWebApi.Controllers
+namespace BeautySalon.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -13,7 +12,7 @@ namespace MyEventsWebApi.Controllers
         private readonly ILogger<MasterController> _logger;
 
         private IUnitOfWork _ADOuow;
-        public MasterController(ILogger<MasterController> logger, 
+        public MasterController(ILogger<MasterController> logger,
             IUnitOfWork ado_unitofwork)
         {
             _logger = logger;
@@ -28,7 +27,7 @@ namespace MyEventsWebApi.Controllers
             {
                 var results = await _ADOuow._masterRepository.GetAllAsync();
                 _ADOuow.Commit();
-                _logger.LogInformation($"Отримали всіх майсрів з бази даних!");
+                _logger.LogInformation($"Отримали всіх майстрів з бази даних!");
                 return Ok(results);
             }
             catch (Exception ex)
@@ -46,7 +45,7 @@ namespace MyEventsWebApi.Controllers
             {
                 var result = await _ADOuow._masterRepository.GetAsync(id);
                 _ADOuow.Commit();
-                if (result  == null)
+                if (result == null)
                 {
                     _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");
                     return NotFound();
@@ -109,14 +108,14 @@ namespace MyEventsWebApi.Controllers
                     return BadRequest("Обєкт івенту є некоректним");
                 }
 
-                var event_entity =  await _ADOuow._serviceRepository.GetAsync(id);
-                if(event_entity == null)
+                var event_entity = await _ADOuow._serviceRepository.GetAsync(id);
+                if (event_entity == null)
                 {
                     _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");
                     return NotFound();
                 }
 
-                 await _ADOuow._serviceRepository.ReplaceAsync(evnt);
+                await _ADOuow._serviceRepository.ReplaceAsync(evnt);
                 _ADOuow.Commit();
                 return StatusCode(StatusCodes.Status204NoContent);
             }
@@ -133,7 +132,7 @@ namespace MyEventsWebApi.Controllers
         {
             try
             {
-                var event_entity = await _ADOuow._masRepository.GetAsync(id);
+                var event_entity = await _ADOuow._masterRepository.GetAsync(id);
                 if (event_entity == null)
                 {
                     _logger.LogInformation($"Івент із Id: {id}, не був знайдейний у базі даних");

@@ -8,7 +8,7 @@ using TeamworkSystem.DataAccessLayer.Interfaces.Repositories;
 
 namespace BeautySalon_EF.DAL.Interfaces.Repositories
 {
-    public interface IProductsRepository :IRepository<Products>
+    public interface IReplyProductsRepository :IRepository<Products>
     {
     }
 }

@@ -16,7 +16,7 @@ namespace BeautySalon_EF.DAL.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            modelBuilder.ApplyConfiguration(new ProductConfiguration());
+            modelBuilder.ApplyConfiguration(new Configuration.CommentsProductsContext());
 
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -15,7 +15,7 @@ namespace BeautySalon_EF.DAL.Data.Repositories
         protected readonly ProductsContext databaseContext;
 
 
-        public IProductsRepository ProductsRepository { get; }
+        public IReplyProductsRepository ProductsRepository { get; }
         public async Task SaveChangesAsync()
         {
             await databaseContext.SaveChangesAsync();
@@ -23,7 +23,7 @@ namespace BeautySalon_EF.DAL.Data.Repositories
 
         public UnitOfWork(
             ProductsContext databaseContext,
-            IProductsRepository productsRepository)
+            IReplyProductsRepository productsRepository)
         {
             this.databaseContext = databaseContext;
 

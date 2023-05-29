@@ -1,0 +1,5 @@
+D:\університет\4семестр\OOP\lab2EF\obj\Debug\net7.0\lab2EF.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\lab2EF\obj\Debug\net7.0\lab2EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\lab2EF\obj\Debug\net7.0\lab2EF.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\lab2EF\obj\Debug\net7.0\lab2EF.AssemblyInfo.cs
+D:\університет\4семестр\OOP\lab2EF\obj\Debug\net7.0\lab2EF.csproj.CoreCompileInputs.cache
