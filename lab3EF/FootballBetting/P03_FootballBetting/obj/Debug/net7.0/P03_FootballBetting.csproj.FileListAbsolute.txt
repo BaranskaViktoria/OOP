@@ -1,0 +1,144 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.exe
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Humanizer.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\refint\P03_FootballBetting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\ref\P03_FootballBetting.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.Models.pdb
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.exe
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.deps.json
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.runtimeconfig.json
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.pdb
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Azure.Core.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Azure.Identity.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Humanizer.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.CodeDom.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Memory.Data.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.Models.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.pdb
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\bin\Debug\net7.0\P03_FootballBetting.Data.Models.pdb
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.AssemblyInfo.cs
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.csproj.CopyComplete
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\refint\P03_FootballBetting.dll
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.pdb
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\P03_FootballBetting.genruntimeconfig.cache
+D:\університет\4семестр\OOP\lab3EF\FootballBetting\P03_FootballBetting\obj\Debug\net7.0\ref\P03_FootballBetting.dll

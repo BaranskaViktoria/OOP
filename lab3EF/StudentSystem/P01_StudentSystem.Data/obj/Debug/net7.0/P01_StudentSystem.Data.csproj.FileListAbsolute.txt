@@ -1,0 +1,34 @@
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.deps.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.runtimeconfig.json
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.Models.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.Models.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.AssemblyReference.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.AssemblyInfo.cs
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.CopyComplete
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\refint\P01_StudentSystem.Data.dll
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.pdb
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.genruntimeconfig.cache
+C:\Users\amigo\OneDrive\Рабочий стол\Lab2-5_EFLabs\02\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\ref\P01_StudentSystem.Data.dll
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.deps.json
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.runtimeconfig.json
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.dll
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.pdb
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.Models.dll
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\bin\Debug\net7.0\P01_StudentSystem.Data.Models.pdb
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.AssemblyInfo.cs
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.csproj.CopyComplete
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.dll
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\refint\P01_StudentSystem.Data.dll
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.pdb
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\P01_StudentSystem.Data.genruntimeconfig.cache
+D:\університет\4семестр\OOP\lab3EF\StudentSystem\P01_StudentSystem.Data\obj\Debug\net7.0\ref\P01_StudentSystem.Data.dll
