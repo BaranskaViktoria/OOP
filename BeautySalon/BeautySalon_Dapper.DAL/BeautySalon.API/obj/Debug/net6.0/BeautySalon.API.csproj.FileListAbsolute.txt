@@ -1,6 +1,0 @@
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.csproj.AssemblyReference.cache
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.GeneratedMSBuildEditorConfig.editorconfig
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.AssemblyInfoInputs.cache
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.AssemblyInfo.cs
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.csproj.CoreCompileInputs.cache
-D:\університет\4семестр\OOP\BeautySalon\BeautySalon_Dapper.DAL\BeautySalon.API\obj\Debug\net6.0\BeautySalon.API.MvcApplicationPartsAssemblyInfo.cache
