@@ -1,0 +1,12 @@
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\bin\Debug\net7.0\BeautySalon.DAL.deps.json
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\bin\Debug\net7.0\BeautySalon.DAL.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\bin\Debug\net7.0\BeautySalon.DAL.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.AssemblyInfo.cs
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\refint\BeautySalon.DAL.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\BeautySalon.DAL.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.DAL\obj\Debug\net7.0\ref\BeautySalon.DAL.dll
