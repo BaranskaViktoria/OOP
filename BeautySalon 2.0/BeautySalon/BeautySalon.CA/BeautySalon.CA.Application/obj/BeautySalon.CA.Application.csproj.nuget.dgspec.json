@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[11.3.0, )"
             },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.0.1, )"
@@ -67,6 +71,14 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.0-preview.4.23259.3, )"
+            },
+            "Microsoft.VisualStudio.Services.Client": {
+              "target": "Package",
+              "version": "[16.205.1, )"
+            },
+            "Volo.Abp.ObjectMapping": {
+              "target": "Package",
+              "version": "[7.2.2, )"
             }
           },
           "imports": [

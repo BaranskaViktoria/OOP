@@ -11,34 +11,68 @@
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="FluentValidation" Version="11.5.2" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Mapster" Version="7.3.0" />
     <PackageReference Include="MediatR" Version="12.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0-preview.4.23259.3" />
+    <PackageReference Include="Microsoft.VisualStudio.Services.Client" Version="16.205.1" />
+    <PackageReference Include="Volo.Abp.ObjectMapping" Version="7.2.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Common\Exceptios\" />
-    <Folder Include="Common\Mappings\" />
     <Folder Include="DTOs\" />
     <Folder Include="Extensions\" />
-    <Folder Include="Features\CommentsFeatures\Queries\" />
-    <Folder Include="Features\CommentsProductsFeatures\Commands\" />
-    <Folder Include="Features\CommentsProductsFeatures\Queries\" />
-    <Folder Include="Features\MasterFeatures\Commands\" />
-    <Folder Include="Features\MasterFeatures\Queries\" />
-    <Folder Include="Features\OrdeerFeatures\Commands\" />
-    <Folder Include="Features\OrdeerFeatures\Queries\" />
-    <Folder Include="Features\ProductsFeatures\Commands\" />
-    <Folder Include="Features\ProductsFeatures\Queries\" />
-    <Folder Include="Features\ReplyFeatures\Commands\" />
-    <Folder Include="Features\ReplyFeatures\Queries\" />
-    <Folder Include="Features\ReplyProductsFeatures\Commands\" />
-    <Folder Include="Features\ReplyProductsFeatures\Queries\" />
-    <Folder Include="Features\SalonCityFeatures\Commands\" />
-    <Folder Include="Features\SalonCityFeatures\Queries\" />
-    <Folder Include="Features\ServiceFeatures\Commands\" />
-    <Folder Include="Features\ServiceFeatures\Queries\" />
-    <Folder Include="Features\UserFeatures\Commands\" />
-    <Folder Include="Features\UserFeatures\Queries\" />
+    <Folder Include="Features\CommentsProductsFeatures\Commands\DeleteCommentsProducts\" />
+    <Folder Include="Features\CommentsProductsFeatures\Commands\UpdateCommentsProducts\" />
+    <Folder Include="Features\CommentsProductsFeatures\Queries\GetAllCommentsProducts\" />
+    <Folder Include="Features\CommentsProductsFeatures\Queries\GetCommentsProducts\" />
+    <Folder Include="Features\MasterFeatures\Commands\CreateMaster\" />
+    <Folder Include="Features\MasterFeatures\Commands\DeleteMaster\" />
+    <Folder Include="Features\MasterFeatures\Commands\UpdateMaster\" />
+    <Folder Include="Features\MasterFeatures\Queries\GetAllMaster\" />
+    <Folder Include="Features\MasterFeatures\Queries\GetMaster\" />
+    <Folder Include="Features\MasterFeatures\Queries\GetMaster_DataShaping\" />
+    <Folder Include="Features\OrdeerFeatures\Commands\CreateOrdeer\" />
+    <Folder Include="Features\OrdeerFeatures\Commands\DeleteOrdeer\" />
+    <Folder Include="Features\OrdeerFeatures\Commands\UpdateOrdeer\" />
+    <Folder Include="Features\OrdeerFeatures\Queries\GetAllOrdeer\" />
+    <Folder Include="Features\OrdeerFeatures\Queries\GetOrdeer\" />
+    <Folder Include="Features\OrdeerFeatures\Queries\GetOrdeer_DataShaping\" />
+    <Folder Include="Features\ProductsFeatures\Commands\CreateProducts\" />
+    <Folder Include="Features\ProductsFeatures\Commands\DeleteProducts\" />
+    <Folder Include="Features\ProductsFeatures\Commands\UpdateProducts\" />
+    <Folder Include="Features\ProductsFeatures\Queries\GetAllProducts\" />
+    <Folder Include="Features\ProductsFeatures\Queries\GetProducts\" />
+    <Folder Include="Features\ProductsFeatures\Queries\GetProducts_DataShaping\" />
+    <Folder Include="Features\ReplyFeatures\Commands\CreateReply\" />
+    <Folder Include="Features\ReplyFeatures\Commands\DeleteReply\" />
+    <Folder Include="Features\ReplyFeatures\Commands\UpdateReply\" />
+    <Folder Include="Features\ReplyFeatures\Queries\GetAllReply\" />
+    <Folder Include="Features\ReplyFeatures\Queries\GetReply\" />
+    <Folder Include="Features\ReplyFeatures\Queries\GetReply_DataShaping\" />
+    <Folder Include="Features\ReplyProductsFeatures\Commands\CreateReplyProducts\" />
+    <Folder Include="Features\ReplyProductsFeatures\Commands\DeleteReplyProducts\" />
+    <Folder Include="Features\ReplyProductsFeatures\Commands\UpdateReplyProducts\" />
+    <Folder Include="Features\ReplyProductsFeatures\Queries\GetAllReplyProducts\" />
+    <Folder Include="Features\ReplyProductsFeatures\Queries\GetReplyProducts\" />
+    <Folder Include="Features\ReplyProductsFeatures\Queries\GetReplyProducts_DataShaping\" />
+    <Folder Include="Features\SalonCityFeatures\Commands\CreateSalonCity\" />
+    <Folder Include="Features\SalonCityFeatures\Commands\DeleteSalonCity\" />
+    <Folder Include="Features\SalonCityFeatures\Commands\UpdateSalonCity\" />
+    <Folder Include="Features\SalonCityFeatures\Queries\GetAllSalonCity\" />
+    <Folder Include="Features\SalonCityFeatures\Queries\GetSalonCity\" />
+    <Folder Include="Features\SalonCityFeatures\Queries\GetSalonCity_DataShaping\" />
+    <Folder Include="Features\ServiceFeatures\Commands\CreateService\" />
+    <Folder Include="Features\ServiceFeatures\Commands\DeleteService\" />
+    <Folder Include="Features\ServiceFeatures\Commands\UpdateService\" />
+    <Folder Include="Features\ServiceFeatures\Queries\GetAllService\" />
+    <Folder Include="Features\ServiceFeatures\Queries\GetService\" />
+    <Folder Include="Features\ServiceFeatures\Queries\GetService_DataShaping\" />
+    <Folder Include="Features\UserFeatures\Commands\CreateUser\" />
+    <Folder Include="Features\UserFeatures\Commands\DeleteUser\" />
+    <Folder Include="Features\UserFeatures\Commands\UpdateUser\" />
+    <Folder Include="Features\UserFeatures\Queries\GetAllUser\" />
+    <Folder Include="Features\UserFeatures\Queries\GetUser\" />
+    <Folder Include="Features\UserFeatures\Queries\GetUser_DataShaping\" />
   </ItemGroup>
 
   <ItemGroup>

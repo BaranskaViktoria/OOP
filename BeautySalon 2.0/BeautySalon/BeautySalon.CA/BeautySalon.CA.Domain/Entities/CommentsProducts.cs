@@ -14,5 +14,7 @@ namespace BeautySalon_EF.DAL.Entities
         public  decimal Rating { get; set; }
         public DateTime CreateTime { get; set; }
         public string? Comments { get; set; }
+
+ 
     }
 }

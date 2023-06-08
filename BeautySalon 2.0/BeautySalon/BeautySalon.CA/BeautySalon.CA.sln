@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.CA.Infrastructu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.CA.Shared", "BeautySalon.CA.Shared\BeautySalon.CA.Shared.csproj", "{1B6A9CB1-908B-4124-A581-F17A99B2047E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalon.CA.WebAPI", "BeautySalon.CA.WebAPI\BeautySalon.CA.WebAPI.csproj", "{488000FC-0892-466D-90FE-D0D235CFC06D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.CA.WebAPI", "BeautySalon.CA.WebAPI\BeautySalon.CA.WebAPI.csproj", "{488000FC-0892-466D-90FE-D0D235CFC06D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalon.CA.Application", "BeautySalon.CA.Application\BeautySalon.CA.Application.csproj", "{C4FC73DD-149B-4D7B-9919-0765AE7F971C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.CA.Application", "BeautySalon.CA.Application\BeautySalon.CA.Application.csproj", "{C4FC73DD-149B-4D7B-9919-0765AE7F971C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeautySalon.CA.Persistence", "BeautySalon.CA.Persistence\BeautySalon.CA.Persistence.csproj", "{B529CC80-E1DC-4A45-9265-AFCB23AAC54D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BeautySalon.CA.Persistence", "BeautySalon.CA.Persistence\BeautySalon.CA.Persistence.csproj", "{B529CC80-E1DC-4A45-9265-AFCB23AAC54D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{87A62231-FE95-4556-B091-2B017BCCA55B}"
 EndProject
