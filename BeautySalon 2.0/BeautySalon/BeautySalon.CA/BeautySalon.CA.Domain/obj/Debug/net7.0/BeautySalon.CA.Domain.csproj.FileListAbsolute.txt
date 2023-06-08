@@ -1,0 +1,12 @@
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\bin\Debug\net7.0\BeautySalon.CA.Domain.deps.json
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\bin\Debug\net7.0\BeautySalon.CA.Domain.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\bin\Debug\net7.0\BeautySalon.CA.Domain.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.AssemblyInfo.cs
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\refint\BeautySalon.CA.Domain.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\BeautySalon.CA.Domain.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Domain\obj\Debug\net7.0\ref\BeautySalon.CA.Domain.dll

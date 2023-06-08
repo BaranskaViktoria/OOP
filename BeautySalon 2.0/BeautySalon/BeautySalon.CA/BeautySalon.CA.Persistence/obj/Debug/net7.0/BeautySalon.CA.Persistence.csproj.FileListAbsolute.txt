@@ -1,0 +1,12 @@
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\bin\Debug\net7.0\BeautySalon.CA.Persistence.deps.json
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\bin\Debug\net7.0\BeautySalon.CA.Persistence.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\bin\Debug\net7.0\BeautySalon.CA.Persistence.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.AssemblyInfo.cs
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\refint\BeautySalon.CA.Persistence.dll
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\BeautySalon.CA.Persistence.pdb
+D:\університет\4семестр\OOP\BeautySalon 2.0\BeautySalon\BeautySalon.CA\BeautySalon.CA.Persistence\obj\Debug\net7.0\ref\BeautySalon.CA.Persistence.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rMRd14xzadEzdZzgUv+foZhdF+sE3aHE8CpnXVzEUsm74sKbgWfLoMtfs3nOLR8pN4BOEXYMlDMU+KQjXdBK7g==",
+  "success": true,
+  "projectFilePath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

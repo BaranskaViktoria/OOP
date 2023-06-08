@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="MediatR" Version="12.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.0-preview.4.23259.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Common\Exceptios\" />
+    <Folder Include="Common\Mappings\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Features\CommentsFeatures\Queries\" />
+    <Folder Include="Features\CommentsProductsFeatures\Commands\" />
+    <Folder Include="Features\CommentsProductsFeatures\Queries\" />
+    <Folder Include="Features\MasterFeatures\Commands\" />
+    <Folder Include="Features\MasterFeatures\Queries\" />
+    <Folder Include="Features\OrdeerFeatures\Commands\" />
+    <Folder Include="Features\OrdeerFeatures\Queries\" />
+    <Folder Include="Features\ProductsFeatures\Commands\" />
+    <Folder Include="Features\ProductsFeatures\Queries\" />
+    <Folder Include="Features\ReplyFeatures\Commands\" />
+    <Folder Include="Features\ReplyFeatures\Queries\" />
+    <Folder Include="Features\ReplyProductsFeatures\Commands\" />
+    <Folder Include="Features\ReplyProductsFeatures\Queries\" />
+    <Folder Include="Features\SalonCityFeatures\Commands\" />
+    <Folder Include="Features\SalonCityFeatures\Queries\" />
+    <Folder Include="Features\ServiceFeatures\Commands\" />
+    <Folder Include="Features\ServiceFeatures\Queries\" />
+    <Folder Include="Features\UserFeatures\Commands\" />
+    <Folder Include="Features\UserFeatures\Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeautySalon.CA.Domain\BeautySalon.CA.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

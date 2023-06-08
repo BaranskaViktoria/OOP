@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Application\\BeautySalon.CA.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Application\\BeautySalon.CA.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Application\\BeautySalon.CA.Application.csproj",
+        "projectName": "BeautySalon.CA.Application",
+        "projectPath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Application\\BeautySalon.CA.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj": {
+                "projectPath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0-preview.4.23259.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj",
+        "projectName": "BeautySalon.CA.Domain",
+        "projectPath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\BeautySalon.CA.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\університет\\4семестр\\OOP\\BeautySalon 2.0\\BeautySalon\\BeautySalon.CA\\BeautySalon.CA.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
