@@ -1,0 +1,41 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazopFirstApp
+build_property.RootNamespace = BlazopFirstApp
+build_property.ProjectDir = D:\університет\4семестр\OOP\BlazopFirstApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\університет\4семестр\OOP\BlazopFirstApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/Shared/MyNav.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE15TmF2LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/_Impotrs.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG90cnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/університет/4семестр/OOP/BlazopFirstApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

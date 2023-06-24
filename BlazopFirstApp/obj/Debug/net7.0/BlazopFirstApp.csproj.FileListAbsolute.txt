@@ -1,0 +1,8 @@
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.csproj.AssemblyReference.cache
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.AssemblyInfoInputs.cache
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.AssemblyInfo.cs
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.csproj.CoreCompileInputs.cache
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.MvcApplicationPartsAssemblyInfo.cache
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.RazorAssemblyInfo.cache
+D:\університет\4семестр\OOP\BlazopFirstApp\obj\Debug\net7.0\BlazopFirstApp.RazorAssemblyInfo.cs
